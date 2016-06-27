@@ -1,2 +1,3 @@
-# myrepoA line I wrote on my local computer
-adding a line
+# myrepo A line I wrote on my local computer
+
+updating in useR tutorial
